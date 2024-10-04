@@ -1,3 +1,8 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #F1E9D2;
+}
+
 hr {
   margin-top: 30px;
   margin-bottom: 20px;

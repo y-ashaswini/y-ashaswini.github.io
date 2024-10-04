@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hey there traveller, I am Yashaswini Shivathaya and here I intend to write a little on various topics, some technical, some philosophical and some merely incidental. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Thanks for stopping by, lil friend :D
