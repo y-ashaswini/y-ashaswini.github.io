@@ -15,6 +15,18 @@ linkedin_username: "yashaswini-shivathaya"
 #youtube_username: username
 #googleplus_username: +username
 
+comments:
+  giscus:
+    enabled: true
+    repo: "y-ashaswini/y-ashaswini.github.io"
+    repo_id: "R_kgDOM7AL0Q"
+    category: "General"
+    category_id: "DIC_kwDOM7AL0c4CjDCq"
+    mapping: "pathname"
+    reactions_enabled: "1"
+    theme: "noborder_gray"
+
+
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
@@ -41,13 +53,3 @@ defaults:
     values:
       tags: Other
 
-comments:
-  giscus:
-    enabled: true
-    repo: "y-ashaswini/y-ashaswini.github.io"
-    repo_id: "R_kgDOM7AL0Q"
-    category: "General"
-    category_id: "DIC_kwDOM7AL0c4CjDCq"
-    mapping: "pathname"
-    reactions_enabled: "1"
-    theme: "noborder_gray"
