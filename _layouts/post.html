@@ -28,3 +28,23 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+
+\{\{ if site.comments.giscus.enabled \}\}
+<script src="https://giscus.app/client.js"
+        data-repo="y-ashaswini/y-ashaswini.github.io"
+        data-repo-id="R_kgDOM7AL0Q"
+        data-category="General"
+        data-category-id="DIC_kwDOM7AL0c4CjDCq"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="noborder_gray"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>Please enable JavaScript to view the comments.</noscript>
+\{\{ end \}\}
