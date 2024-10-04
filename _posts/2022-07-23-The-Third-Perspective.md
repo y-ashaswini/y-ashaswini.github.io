@@ -1,6 +1,6 @@
 ## The Third Perspective
 
-*"The universe is not only weirder than we imagine, but weirder than we can imagine." - Einstein*
+## *"The universe is not only weirder than we imagine, but weirder than we can imagine." - Einstein*
 
 <br>
 
