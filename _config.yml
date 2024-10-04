@@ -1,6 +1,6 @@
 title: "Dynamic Equillibrium"
 author: "Yashaswini Shivathaya"
-description: "A few words." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "A piece of my mind, out here on the internet." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
@@ -24,7 +24,7 @@ comments:
     category_id: "DIC_kwDOM7AL0c4CjDCq"
     mapping: "pathname"
     reactions_enabled: "1"
-    theme: "noborder_gray"
+    theme: "transparent_dark"
 
 
 #########################################################################################
