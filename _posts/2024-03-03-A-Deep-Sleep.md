@@ -1,18 +1,12 @@
 ## A Deep Sleep
 
-a deep sleep
-
-your conciousness awakens
-
-you stay where you are
-
-for a moment, still,
-
-waiting for the last vestiges of your sleep to leave you,
-
-memories from your dreams
-
-still hanging on to your present
+*a deep sleep  
+your conciousness awakens  
+you stay where you are 
+for a moment, still, 
+waiting for the last vestiges of your sleep to leave you,  
+memories from your dreams  
+still hanging on to your present*
 
 <br>
 
@@ -202,7 +196,7 @@ of the time you once had.
 
 oh, the human experience
 
-how precious i is
+how precious it is
 
 despite its transience,
 
