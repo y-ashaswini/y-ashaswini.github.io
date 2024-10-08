@@ -1,6 +1,6 @@
 ## The Choice That You Own
 
-> "The choice is *yours*."
+> # "The choice is *yours*."
 
 At any given point in time, you see the million possibilities forking forth, all branching out each from the things you can do and the things you wouldn't. Each takes on a different route and leads to a different end. Oh, the power we hold with our free will, unfathomable! We could *totally* change the world with this one choice, dammit. 
 
@@ -50,5 +50,6 @@ Ye know, its a little like the curse of being Batman. I've always admired Batman
 
 That's him.
 
+<br>
 <br>
 … and, that's me. At a tiny, microscopic, almost invisible scale. But it’s there. Somewhere. Eh.
