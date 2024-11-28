@@ -16,7 +16,7 @@ through your open window
 you hear a few chirps,  
 a few footsteps  
 and some distant chatting, laughter  
-it isn't dawn, but rather dusk  
+it isn't dawn, but rather dusk
 and you're waking up halfway through the day  
 to live through the rest of it  
 and also perhaps a half  
