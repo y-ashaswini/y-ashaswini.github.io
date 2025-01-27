@@ -1,4 +1,4 @@
-## Merlin and his Failed Destiny
+## The Ancient Lore of Merlin and his Failed Destiny
 
 *(Reference: The 5 Seasons of Merlin by BBC)*
 
