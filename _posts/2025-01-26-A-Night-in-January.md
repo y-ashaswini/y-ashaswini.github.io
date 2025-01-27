@@ -1,12 +1,12 @@
 ## A Night in January
 
-Slipping away into the void
+*Slipping away into the void
 Not dark really, but more empty, resigned.
 To finally get out of your delusions and confront reality,
 To make terms with your own and other's choices of what it is -
 Is surely the hardest feeling there is, don’t  you think?
 It *is* hard and, to make things worse,
-Not at all rare.
+Not at all rare.*
 
 <br>
 
