@@ -1,6 +1,6 @@
 ## The Ancient Lore of Merlin and his Failed Destiny
 
-*(Reference: The 5 Seasons of Merlin by BBC)*
+*(Reference: The 5 Seasons of Merlin by BBC, a British television series)*
 
 <br> 
 
