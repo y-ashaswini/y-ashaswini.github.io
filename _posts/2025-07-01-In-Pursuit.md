@@ -127,7 +127,7 @@ And exit I cannot, because without the stage I step into abyss.<br>
 Here, the curtains never close, the audience doesn't cheer.<br>
 And yet I must perfrom to their satisfaction.<br>
 I hope you are happy.</p>
-<br>
+
 <p>Cars, buses, trucks, people, everything races right through me<br>
 As I kneel down in the middle of the road<br>
 Nothing can touch me anymore.<br>
@@ -140,12 +140,11 @@ Midnight blue waters. I trod forward.<br>
 I close my eyes for the last time as I feel the cold water around my face engulf me completely.<br>
 Why, did nobody tell you?<br>
 Drowning can be quite peaceful.</p>
-
 <br>
 <p>I wake up the next morning,<br>
 Feeling the warm sunshine on my cheeks. I shift under my soft bed covers.<br>
 Today’s sun has risen.<br>
-Going through death and coming out alive on the other side is quite a refreshing experience,<br>
+Going through death and coming out alive on the other side is a very refreshing experience<br>
 You should try it too, sometime.</p>
 
 <p>I do it every day.</p>
