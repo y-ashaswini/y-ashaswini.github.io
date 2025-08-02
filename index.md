@@ -1,4 +1,7 @@
-<p>Thanks for stopping by, friend; <br>
-I run experiments, all within the safe space between my ears (my head). And based on those experiments, I gain fresh perspectives once in a while. I twist and morph them until it becomes something painful, or something unseen. And then, I get a strong compulsion to write about it.<br>
-So that's what you'll be getting to read here, mate. Oh, and I have <i>lots</i> to say. Only if you're willing to listen :)
-</p>
+<i><p>Thanks for stopping by, friend; <br>
+I run experiments, all within the safe space between my ears (my head).<br>
+I twist and morph my observations until it becomes something unseen, something beautiful, or something painful.<br>
+And then, I have no choice but to write about it.<br>
+So that's what you'll be getting to read here, mate.<br>
+Oh, and I have <i>lots</i> to say. Only if you're willing to listen, of course :)
+</p></i>
