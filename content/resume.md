@@ -1,6 +1,6 @@
 ---
 title: "The Dossier (aka resume)"
-url: "/resume/"
+url: "/nobodyknows/resume/"
 layout: "single"
 comments: false
 ---
@@ -19,7 +19,7 @@ High-performance engineer focused on building resilient, autonomous systems. Fro
 ### Technical Arsenal
 * **Languages:** C++, Python, C#, Java, Go, JavaScript, SQL
 * **Systems & Robotics:** ROS/ROS2, Gazebo, System Design, Networking, Arduino
-* **Cloud & Data:** AWS ([https://drive.google.com/file/d/1N_JqkHPl32bDWAhZD6m5c5SdjKozY4op/view?usp=drive_link](Solutions Architect Associate), and [https://drive.google.com/file/d/1hrCTReKagkqBz-K2boA1DO8cicMdCXgq/view?usp=sharing](Certified Cloud Practitioner)), PostgreSQL, Firebase, Supabase
+* **Cloud & Data:** AWS ([Solutions Architect Associate](https://drive.google.com/file/d/1N_JqkHPl32bDWAhZD6m5c5SdjKozY4op/view?usp=drive_link), and [Certified Cloud Practitioner](https://drive.google.com/file/d/1hrCTReKagkqBz-K2boA1DO8cicMdCXgq/view?usp=sharing)), PostgreSQL, Firebase, Supabase
 * **Frameworks:** React.js, Next.js, .NET, WPF, Flask, Spring Boot
 
 ---
