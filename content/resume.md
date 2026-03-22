@@ -8,12 +8,12 @@ comments: false
 # Yashaswini Shivathaya
 **Software Engineer**
 Links to Profiles: [Resume PDF](https://tinyurl.com/yashaswini-shivathaya) | [GitHub](https://github.com/y-ashaswini) | [LinkedIn](https://linkedin.com/in/yashaswini-shivathaya) | [Medium](https://medium.com/@evilgeniusprevails) | [Leetcode](https://leetcode.com/y-ashaswini/) | [Design](https://tinyurl.com/yashaswini-design)
-
 ---
 
 ### Bio
 
 I am a software engineer with experience across large scale engineering teams, startups, and independent projects. I have contributed to patented technical work and built intelligent systems, developer tools, and customer-facing products. My work spans full-stack development, AI-based systems, and early exploration in robotics and autonomous systems. I am comfortable working across the stack and focuses on understanding systems end to end, from architecture to user impact. I am execution-driven, curious about complex technical problems, and interested in building systems that operate at scale over the long term. Alongside engineering, I am a crisp communicator, enjoy technical discussions and working in high-functioning tight-deadline collaborative environments.
+
 ---
 
 ### Technical Arsenal
