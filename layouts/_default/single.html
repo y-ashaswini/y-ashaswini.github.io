@@ -56,10 +56,9 @@
     {{- partial "share_icons.html" . -}}
     {{- end }}
   </footer>
-
-  {{- if (.Params.comments | default true) -}}
-      {{- partial "comments.html" . -}}
-  {{- end -}}
+{{- if (ne .Params.comments false) -}}
+    {{- partial "comments.html" . -}}
+{{- end -}}
 </article>
 
 {{- end }}{{/* end main */}}

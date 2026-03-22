@@ -1,31 +1,52 @@
 <br />
-<hr />
+<hr style="border: 0; border-top: 1px solid var(--border); opacity: 0.3;">
 <div class="post-comments">
-    <h3 id="comments-title" style="margin-bottom: 20px; opacity: 0.8;">Comments</h3>
+    <h3 id="comments-title">Comments</h3>
     
-    <div id="cusdis_thread"
-      data-host="https://cusdis.com"
-      data-app-id="f2866911-f1cc-4b8e-87bd-ec7592a2f642"
-      data-page-id="{{ .File.UniqueID }}"
-      data-page-url="{{ .Permalink }}"
-      data-page-title="{{ .Title }}"
-      data-theme="dark"
-    ></div>
+    <div id="cusdis_container">
+        <div id="cusdis_thread"
+          data-host="https://cusdis.com"
+          data-app-id="f2866911-f1cc-4b8e-87bd-ec7592a2f642"
+          data-page-id="{{ .File.UniqueID }}"
+          data-page-url="{{ .Permalink }}"
+          data-page-title="{{ .Title }}"
+          data-theme="auto"
+        ></div>
+    </div>
 </div>
 
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 
 <style>
-    /* Styling the Cusdis iframe to match PaperMod's Dark/Grey aesthetic */
-    #cusdis_thread {
-        margin-top: 2rem;
-        min-height: 200px;
+    .post-comments {
+        margin-top: 3rem;
     }
+
     #comments-title {
-        font-size: 1.2rem;
-        letter-spacing: 0.05em;
+        font-family: 'Courier New', monospace;
+        font-size: 1.1rem;
+        letter-spacing: 0.1em;
         text-transform: uppercase;
-        border-bottom: 1px solid var(--border);
-        padding-bottom: 10px;
+        color: var(--secondary);
+        margin-bottom: 15px;
+    }
+
+    /* The Sleek Box */
+    #cusdis_container {
+        background: var(--entry); /* Uses PaperMod's built-in grey-ish background */
+        padding: 25px;
+        border-radius: 16px; /* High-end rounding */
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+        transition: all 0.3s ease;
+    }
+
+    /* Light Mode specific tweak for contrast */
+    [data-theme='light'] #cusdis_container {
+        background: #f9f9f9;
+        border: 1px solid #eee;
+    }
+
+    #cusdis_thread {
+        min-height: 200px;
     }
 </style>
