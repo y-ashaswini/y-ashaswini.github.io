@@ -20,6 +20,7 @@
 <style>
     .post-comments {
         margin-top: 3rem;
+        width: 100%;
     }
 
     #comments-title {
@@ -31,22 +32,25 @@
         margin-bottom: 15px;
     }
 
-    /* The Sleek Box */
+    /* THE FIX: Sleek Integrated Box */
     #cusdis_container {
-        background: var(--entry); /* Uses PaperMod's built-in grey-ish background */
-        padding: 25px;
-        border-radius: 16px; /* High-end rounding */
-        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+        background: var(--entry); /* Matches PaperMod entry color */
+        padding: 15px; /* Reduced padding to fit the iframe better */
+        border-radius: 16px;
+        overflow: hidden; /* Clips any white corners from the iframe */
         transition: all 0.3s ease;
     }
 
-    /* Light Mode specific tweak for contrast */
-    [data-theme='light'] #cusdis_container {
-        background: #f9f9f9;
-        border: 1px solid #eee;
+    /* Target the iframe directly to remove its white background */
+    #cusdis_thread iframe {
+        color-scheme: light dark;
+        background: transparent !important;
+        border-radius: 8px;
     }
 
-    #cusdis_thread {
-        min-height: 200px;
+    /* Adapt background for Light Mode */
+    [data-theme='light'] #cusdis_container {
+        background: #f0f0f0;
+        border: 1px solid #e0e0e0;
     }
 </style>
