@@ -1,7 +1,7 @@
 ---
-date = '2023-07-23T11:09:00+04:00'
+date: '2023-07-23T11:09:00+04:00'
 draft: false
-title = 'The Third Perspective'
+title: 'The Third Perspective'
 hiddenInHomeList: true
 ---
 

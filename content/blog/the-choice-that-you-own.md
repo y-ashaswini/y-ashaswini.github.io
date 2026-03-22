@@ -1,7 +1,7 @@
 ---
-date = '2024-10-08T11:12:08+04:00'
+date: '2024-10-08T11:12:08+04:00'
 draft: false
-title = 'The Choice That You Own'
+title: 'The Choice That You Own'
 hiddenInHomeList: true
 ---
 

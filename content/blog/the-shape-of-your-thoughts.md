@@ -1,7 +1,7 @@
 ---
-date = '2024-10-03T10:17:12+04:00'
+date: '2024-10-03T10:17:12+04:00'
 draft: false
-title = 'The Shape of Your Thoughts'
+title: 'The Shape of Your Thoughts'
 hiddenInHomeList: true
 ---
 
