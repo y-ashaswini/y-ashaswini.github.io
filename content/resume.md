@@ -1,19 +1,19 @@
 ---
-title: "The Dossier (aka resume)"
+title: "Resume"
 url: "/nobodyknows/resume/"
 layout: "single"
 comments: false
 ---
 
 # Yashaswini Shivathaya
-**Software Engineer, Systems & Robotics Architect**
+**Software Engineer**
 Links to Profiles: [Resume PDF](https://tinyurl.com/yashaswini-shivathaya) | [GitHub](https://github.com/y-ashaswini) | [LinkedIn](https://linkedin.com/in/yashaswini-shivathaya) | [Medium](https://medium.com/@evilgeniusprevails) | [Leetcode](https://leetcode.com/y-ashaswini/) | [Design](https://tinyurl.com/yashaswini-design)
 
 ---
 
-### Executive Summary
-High-performance engineer focused on building resilient, autonomous systems. From architecting Agentic AI tools at Dell Technologies to leading international award-winning robotics teams in university, I prioritize efficiency, scale, and technical precision.
+### Bio
 
+I am a software engineer with experience across large scale engineering teams, startups, and independent projects. I have contributed to patented technical work and built intelligent systems, developer tools, and customer-facing products. My work spans full-stack development, AI-based systems, and early exploration in robotics and autonomous systems. I am comfortable working across the stack and focuses on understanding systems end to end, from architecture to user impact. I am execution-driven, curious about complex technical problems, and interested in building systems that operate at scale over the long term. Alongside engineering, I am a crisp communicator, enjoy technical discussions and working in high-functioning tight-deadline collaborative environments.
 ---
 
 ### Technical Arsenal
@@ -59,6 +59,11 @@ High-performance engineer focused on building resilient, autonomous systems. Fro
 
 ### Leadership & Global Impact
 
+#### **Core Member** | Reboot Committee, Dell Technologies (Dell-11, Bengaluru)
+*Feb 2026 - Present*
+* One of 10 members from the entire site chosen for end-to-end handling of conducting large scale events each with over 150+ attendees
+* Collaboration, planning and discussion with top leaders of Dell Technologies
+
 #### **Software Head** | SEDS VIT Projects (Team Vyadh & Ardra)
 *Jan 2024 – Jan 2025*
 * **International Rover Challenge (IRC):** Led Team Vyadh to **19th position worldwide** out of 53 teams.
@@ -76,5 +81,5 @@ High-performance engineer focused on building resilient, autonomous systems. Fro
 ---
 
 ### Beyond the Code
-* **Interests:** Robotics, Space Science, Classical Dancing, Singing.
+* **Interests:** Robotics, Space Science, Writing, Classical Dancing, Singing.
 * **Public Speaking:** Conducted technical workshops in university, Emcee for Dell Technologies Annual Event 2026 (300+ attendees) and Dell site-wide Indian Independence Day celebrations.
