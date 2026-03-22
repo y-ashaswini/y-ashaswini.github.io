@@ -1,3 +1,13 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://y-ashaswini.github.io/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Dynamic Equillibrium'
+theme = "PaperMod"
+
+[permalinks]
+    blog = "/blog/:title/"
+
+[params]
+env = "production"
+    ShowReadingTime = true
+    displayFullContent = false
+    ShowBreadCrumbs = true
