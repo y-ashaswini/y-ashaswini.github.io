@@ -1,80 +1,68 @@
-+++
-date = '2025-10-24T00:00:12+04:00'
-draft = false
-title = 'The Arena'
-hiddenInHomeList = true
-+++
+---
+date: '2025-10-24T00:00:12+04:00'
+draft: false
+title: 'The Arena'
+hiddenInHomeList: true
+---
+ 
+Elaborate,  
+Perfectly beautiful, pristine,  
+Larger than anything this human mind can even begin comprehending -  
+Is this game of life.
 
-## The Arena
+I'd met you earlier,  
+When I was perhaps too young to understand  
+But now, I recognize you immediately.  
+I'd run away from you back then,  
+Hoping beyond hope that I'd never see you again  
+But you're here,  
+Back in a different form.  
+Your physical appearance is different.  
+We've never met before -  
+Or rather, *you've* never seen me before.  
+To me, you're an old friend.  
+And this time, an escape won't be that easy.  
+I've been cornered.  
+I spare one glance of smug realization towards the skies,  
+Take a deep breath,  
+And pass on a nod of acknowledgement to you.  
+The interaction begins.
 
-<p>
-Elaborate, <br/>
-Perfectly beautiful, pristine, <br/>
-Larger than anything this human mind can even begin comprehending - <br/>
-Is this game of life. <br/>
-</p>
+We're both on the field now,  
+And even though I still don't know how to take you on,  
+Abandoning the arena like last tine isn't an option anymore.  
+The thought of seeing you again annoys me enough  
+To motivate me to get it over with  
+Now, once and for all.  
+I crack my knuckles, crouching into a fighting stance  
+From the corner of my eye, I see a few more players  
+Stepping slowly into the field  
+I recognize all of them, from a past  
+Long buried, distant.  
+Oh, all my undefeated enemies, welcome back!  
+So, a challenge it is. "Fine! I get it now", I announce  
+Not personal, but inevitably,  
+Me versus you.
 
-<p>
-I'd met you earlier,  <br/>
-When I was perhaps too young to understand <br/>
-But now, I recognize you immediately. <br/>
-I'd run away from you back then, <br/>
-Hoping beyond hope that I'd never see you again <br/>
-But you're here, <br/>
-Back in a different form. <br/>
-Your physical appearance is different. <br/>
-We've never met before -  <br/>
-Or rather, <i>you've</i> never seen me before. <br/>
-To me, you're an old friend. <br/>
-And this time, an escape won't be that easy. <br/>
-I've been cornered. <br/>
-I spare one glance of smug realization towards the skies,  <br/>
-Take a deep breath, <br/>
-And pass on a nod of acknowledgement to you. <br/>
-The interaction begins. <br/>
-</p>
+Then, to my surprise,  
+Donned with all your weapons and arsenal,  
+You smile.  
+Not a smirk, not mocking or menacing  
+Rather a smile of... is that pride?  
+You're *proud* of me?  
+Two butterfiles, one white and one golden  
+Flutter across the arena, twirling around each other  
+Like leaves dancing in a breeze  
+Thunder rolls overhead  
+Almost as if the universe was congratulating me,  
+That after all this time,  
+Finally, I have made the right choice.
 
-<p>
-We're both on the field now, <br/>
-And even though I still don't know how to take you on, <br/>
-Abandoning the arena like last tine isn't an option anymore. <br/>
-The thought of seeing you again annoys me enough <br/>
-To motivate me to get it over with <br/>
-Now, once and for all. <br/>
-I crack my knuckles, crouching into a fighting stance  <br/>
-From the corner of my eye, I see a few more players  <br/>
-Stepping slowly into the field <br/>
-I recognize all of them, from a past <br/>
-Long buried, distant. <br/>
-Oh, all my undefeated enemies, welcome back! <br/>
-So, a challenge it is. "Fine! I get it now", I announce <br/>
-Not personal, but inevitably, <br/>
-Me versus you. <br/>
-</p>
-
-<p>
-Then, to my surprise,  <br/>
-Donned with all your weapons and arsenal, <br/>
-You smile. <br/>
-Not a smirk, not mocking or menacing <br/>
-Rather a smile of... is that pride? <br/>
-You're <i>proud</i> of me? <br/>
-Two butterfiles, one white and one golden <br/>
-Flutter across the arena, twirling around each other  <br/>
-Like leaves dancing in a breeze <br/>
-Thunder rolls overhead <br/>
-Almost as if the universe was congratulating me, <br/>
-That after all this time, <br/>
-Finally, I have made the right choice. <br/>
-</p>
-
-<p>
-Well, thanks. <br/>
-Let's see how this goes then, folks <br/>
-I raise my right hand, and make a gesture <br/>
-A motion for you to come forward. <br/>
-You come bolting towards me <br/>
-Not in anger, not in rage. <br/>
-Our sheilds clash, the strike hits hard  <br/>
-And hereby, the play resumes. <br/>
-</p>
+Well, thanks.  
+Let's see how this goes then, folks  
+I raise my right hand, and make a gesture  
+A motion for you to come forward.  
+You come bolting towards me  
+Not in anger, not in rage.  
+Our sheilds clash, the strike hits hard  
+And hereby, the play resumes.

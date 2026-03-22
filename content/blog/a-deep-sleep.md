@@ -1,11 +1,9 @@
-+++
-date = '2024-03-03T01:01:45+04:00'
-draft = false
-title = 'A Deep Sleep'
-hiddenInHomeList = true
-+++
-
-## A Deep Sleep
+---
+date: '2024-03-03T01:01:45+04:00'
+draft: false
+title: 'A Deep Sleep'
+hiddenInHomeList: true
+---
 
 *a deep sleep  
 your conciousness awakens  
@@ -15,7 +13,6 @@ waiting for the last vestiges of your sleep to leave you,
 memories from your dreams  
 still hanging on to your present*
 
-<br>
 
 *you hear the rustling of leaves  
 as a silent warm wind blows  
@@ -34,7 +31,6 @@ casting kaliedoscopic patterns
 on your walls  
 reflecting off, onto the ceiling*
 
-<br>
 
 *your mind-  
 all your memories,  
@@ -51,7 +47,6 @@ and hung around their necks
 just like the one  
 around yours*
 
-<br>
 
 *and yet they'd decided  
 to spend some of those precious seconds  
@@ -69,7 +64,6 @@ that they have permanently inscribed
 onto the pages  
 of their own diary of life.*
 
-<br>
 
 *conversations-  
 ah, so complex  
@@ -87,7 +81,6 @@ runs out of wax
 or until the needle runs out  
 of the thread of time?*
 
-<br>
 
 *each moment-  
 each fleeting moment of life  
@@ -117,7 +110,6 @@ a memory that you cannot erase
 memory, the only remaining evidence  
 of the time you once had.*
 
-<br>
 
 *oh, the human experience  
 how precious it is  
@@ -131,7 +123,6 @@ the beauty of living,
 of being alive,  
 awake.*
 
-<br>
 
 *oh, how priceless is this lifetime  
 how delicate is life,  
@@ -153,7 +144,6 @@ from moments not spent asleep
 from moments spent awake,  
 alive.*
 
-<br>
 
 *how'd you then, know which one's which?  
 as your clock ticks on,  

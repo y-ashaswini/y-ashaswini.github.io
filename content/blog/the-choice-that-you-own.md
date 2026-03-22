@@ -1,17 +1,15 @@
-+++
+---
 date = '2024-10-08T11:12:08+04:00'
-draft = false
+draft: false
 title = 'The Choice That You Own'
-hiddenInHomeList = true
-+++
-
-## The Choice That You Own
+hiddenInHomeList: true
+---
 
 > # "The choice is *yours*."
 
 At any given point in time, you see the million possibilities forking forth, all branching out each from the things you can do and the things you wouldn't. Each takes on a different route and leads to a different end. Oh, the power we hold with our free will, unfathomable! We could *totally* change the world with this one choice, dammit. 
 
-<br>
+
 Er, really?
 
 Of late I've come to figure out the way things work around here. People, they often fit into a loosely defined “template”, sorta like a fingerprint with almost 80% accuracy - too complicated to not be explained off in two words, but rcognisable enough to form and fit into a category of their own. Listening for patterns, watching your eyes move as you speak, your pauses, your little gestures, they all make sense to me. You’re a wonder. You may speak two sentences but I hear five, and depending on how accurate probabilistic determinability may be, I see the path we take from this point onwards, our intricate dance at best ten steps into the future.
@@ -32,7 +30,7 @@ Everything that you ever did, all the moves that you ever played… *was I nothi
 
 *Sigh*, somebody remind me please.
 
-<br>
+
 And the cycle continues.
 
 *You dare think?*
@@ -46,7 +44,7 @@ And the cycle continues.
 *What’s that, you tried acting on it but couldn’t? Aw too bad, TRY HARDER then!*
 
 
-<br>
+
 Sometimes I wonder what life is all about. Life is made infinitely more complicated by this ability of ours, to think. Think, learn, predict, feel, remember. So many variables, so many possibilities. What is right, what is wrong?
 
 But then, I wouldn't have it any other way, you know? Wouldn't give up the world for it! This game is what makes life what it is, after all. Life is all but an experience. The dance. Our unique dance, right from the first to the very last breath the body takes. You can *see*, see with the eyes of a painter and *feel*, feel with the heart of a poet. You are *human*, not some buck-beaked duck. You can *think*, not just live by and die like mould on a stale bread.
@@ -57,6 +55,5 @@ Ye know, its a little like the curse of being Batman. I've always admired Batman
 
 That's him.
 
-<br>
-<br>
+
 … and, that's me. At a tiny, microscopic, almost invisible scale. But it’s there. Somewhere. Eh.
