@@ -1,5 +1,5 @@
 <br />
-<hr style="border: 0; border-top: 1px solid var(--border); opacity: 0.3;">
+<hr style="border: 0; border-top: 1px solid var(--border); opacity: 0.2;">
 <div class="post-comments">
     <h3 id="comments-title">Comments</h3>
     
@@ -24,33 +24,39 @@
     }
 
     #comments-title {
-        font-family: 'Courier New', monospace;
-        font-size: 1.1rem;
+        font-size: 1rem;
         letter-spacing: 0.1em;
         text-transform: uppercase;
         color: var(--secondary);
-        margin-bottom: 15px;
+        margin-bottom: 12px;
     }
 
-    /* THE FIX: Sleek Integrated Box */
+    /* THE WRAPPER */
     #cusdis_container {
-        background: var(--entry); /* Matches PaperMod entry color */
-        padding: 15px; /* Reduced padding to fit the iframe better */
-        border-radius: 16px;
-        overflow: hidden; /* Clips any white corners from the iframe */
+        background: var(--entry); 
+        padding: 10px;
+        border-radius: 12px;
         transition: all 0.3s ease;
+        min-height: 150px;
     }
 
-    /* Target the iframe directly to remove its white background */
+    /* THE MAGIC: Forcing the iframe to behave */
     #cusdis_thread iframe {
-        color-scheme: light dark;
         background: transparent !important;
+        /* This filter makes the iframe's internal white parts dark */
+        filter: invert(0.9) hue-rotate(180deg) brightness(1.2);
+        mix-blend-mode: screen; 
         border-radius: 8px;
     }
 
-    /* Adapt background for Light Mode */
+    /* LIGHT MODE: Reset the filter so it looks normal */
+    [data-theme='light'] #cusdis_thread iframe {
+        filter: none;
+        mix-blend-mode: normal;
+    }
+
     [data-theme='light'] #cusdis_container {
-        background: #f0f0f0;
-        border: 1px solid #e0e0e0;
+        background: #f4f4f4;
+        border: 1px solid #ddd;
     }
 </style>
