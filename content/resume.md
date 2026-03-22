@@ -8,6 +8,7 @@ comments: false
 # Yashaswini Shivathaya
 **Software Engineer**
 Links to Profiles: [Resume PDF](https://tinyurl.com/yashaswini-shivathaya) | [GitHub](https://github.com/y-ashaswini) | [LinkedIn](https://linkedin.com/in/yashaswini-shivathaya) | [Medium](https://medium.com/@evilgeniusprevails) | [Leetcode](https://leetcode.com/y-ashaswini/) | [Design](https://tinyurl.com/yashaswini-design)
+
 ---
 
 ### Bio
