@@ -1,8 +1,31 @@
-<div id="cusdis_thread"
-  data-host="https://cusdis.com"
-  data-app-id="f2866911-f1cc-4b8e-87bd-ec7592a2f642"
-  data-page-id="{{ .File.UniqueID }}"
-  data-page-url="{{ .Permalink }}"
-  data-page-title="{{ .Title }}"
-></div>
+<br />
+<hr />
+<div class="post-comments">
+    <h2 id="comments-title" style="margin-bottom: 20px; opacity: 0.8;">Comments</h2>
+    
+    <div id="cusdis_thread"
+      data-host="https://cusdis.com"
+      data-app-id="f2866911-f1cc-4b8e-87bd-ec7592a2f642"
+      data-page-id="{{ .File.UniqueID }}"
+      data-page-url="{{ .Permalink }}"
+      data-page-title="{{ .Title }}"
+      data-theme="dark"
+    ></div>
+</div>
+
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+
+<style>
+    /* Styling the Cusdis iframe to match PaperMod's Dark/Grey aesthetic */
+    #cusdis_thread {
+        margin-top: 2rem;
+        min-height: 200px;
+    }
+    #comments-title {
+        font-size: 1.2rem;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        border-bottom: 1px solid var(--border);
+        padding-bottom: 10px;
+    }
+</style>

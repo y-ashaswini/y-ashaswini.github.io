@@ -8,20 +8,22 @@ theme = "PaperMod"
 
 [params]
     env = "production"
+    defaultTheme = "dark" 
+    disableThemeToggle = false
     # PaperMod Profile Mode
     [params.profileMode]
         enabled = true
-        title = "Yashaswini"
-        subtitle = "High Performance Developer"
-        imageUrl = "https://raw.githubusercontent.com/google/material-design-icons/master/src/action/terminal/materialicons/24px.svg" # Or your own avatar
-        imageWidth = 120
-        imageHeight = 120
+        title = "Yashaswini Shivathaya"
+        subtitle = "yashaswinishivathaya@gmail.com"
+        #imageUrl = "https://raw.githubusercontent.com/google/material-design-icons/master/src/action/terminal/materialicons/24px.svg" # Or your own avatar
+        #imageWidth = 120
+        #imageHeight = 120
         [[params.profileMode.buttons]]
-            name = "The Blog"
+            name = "click to find raw thoughts"
             url = "/blog"
-        [[params.profileMode.buttons]]
-            name = "The Dossier (Resume)"
-            url = "/resume"
+        #[[params.profileMode.buttons]]
+        #    name = "The Dossier (Resume)"
+        #    url = "/resume"
 
     [params.label]
-        text = "HOME"
+        text = "<homepage/>"
