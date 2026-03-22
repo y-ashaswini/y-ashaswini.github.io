@@ -7,7 +7,21 @@ theme = "PaperMod"
     blog = "/blog/:title/"
 
 [params]
-env = "production"
-    ShowReadingTime = true
-    displayFullContent = false
-    ShowBreadCrumbs = true
+    env = "production"
+    # PaperMod Profile Mode
+    [params.profileMode]
+        enabled = true
+        title = "Yashaswini"
+        subtitle = "High Performance Developer"
+        imageUrl = "https://raw.githubusercontent.com/google/material-design-icons/master/src/action/terminal/materialicons/24px.svg" # Or your own avatar
+        imageWidth = 120
+        imageHeight = 120
+        [[params.profileMode.buttons]]
+            name = "The Blog"
+            url = "/blog"
+        [[params.profileMode.buttons]]
+            name = "The Dossier (Resume)"
+            url = "/resume"
+
+    [params.label]
+        text = "HOME"
