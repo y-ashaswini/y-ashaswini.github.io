@@ -57,9 +57,9 @@
     {{- end }}
   </footer>
 
-  {{- if .Params.comments | default true -}}
-  {{- partial "comments.html" . }}
-  {{- end }}
+  {{- if (.Params.comments | default true) -}}
+      {{- partial "comments.html" . -}}
+  {{- end -}}
 </article>
 
 {{- end }}{{/* end main */}}

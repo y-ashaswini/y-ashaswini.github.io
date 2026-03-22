@@ -2,6 +2,7 @@
 title: "The Dossier (aka resume)"
 url: "/resume/"
 layout: "single"
+comments: false
 ---
 
 # Yashaswini Shivathaya
