@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-url: "/nobodyknows/resume/"
+url: "/kronos/resume/"
 layout: "single"
 comments: false
 ---
@@ -19,8 +19,8 @@ I am a software engineer with experience across large scale engineering teams, s
 
 ### Technical Arsenal
 * **Languages:** C++, Python, C#, Java, Go, JavaScript, SQL
-* **Systems & Robotics:** ROS/ROS2, Gazebo, System Design, Networking, Arduino
 * **Cloud & Data:** AWS ([Solutions Architect Associate](https://drive.google.com/file/d/1N_JqkHPl32bDWAhZD6m5c5SdjKozY4op/view?usp=drive_link), and [Certified Cloud Practitioner](https://drive.google.com/file/d/1hrCTReKagkqBz-K2boA1DO8cicMdCXgq/view?usp=sharing)), PostgreSQL, Firebase, Supabase
+* **Systems & Robotics:** ROS/ROS2, Gazebo, System Design, Networking, Arduino
 * **Frameworks:** React.js, Next.js, .NET, WPF, Flask, Spring Boot
 
 ---
@@ -45,6 +45,13 @@ I am a software engineer with experience across large scale engineering teams, s
 ---
 
 ### Key Projects
+
+#### **Autograd Engine and Neural Network Library** | *Python, NN, RL, DQN, Lagrangian Mechanics, Bellman Equations*
+- Developed a zero-dependency, first-principles Autograd Engine and Neural Network Library in Python to solve complex control theory and nonlinear regression problems
+- Engineered a scalar automatic differentiation engine with custom autograd architecture (reference: micrograd) using a Computational Graph to handle manual backpropagation and dynamic gradient tracking
+- Implemented a Deep Q-Network (DQN) from scratch to stabilize an inverted pendulum system. Defined and applied Lagrangian Physics (gravity, torque, and friction) to simulate robotic constraints
+- Used Gradient clipping and semi-gradient methods to ensure mathematical convergence in chaotic state spaces
+- Successfully applied the engine to two distinct domains: Multi-variable Linear Regression (for mathematical verification) and Reinforcement Learning (for autonomous control) [Check out the code here.](https://github.com/y-ashaswini/pendulum)
 
 #### **Autonomous Martian Rover** | *C++, Python, ROS, YOLOv8*
 * Engineered an advanced autonomous module for obstacle detection, avoidance, and goal navigation
