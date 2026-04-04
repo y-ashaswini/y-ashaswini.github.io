@@ -13,7 +13,9 @@ Links to Profiles: [Resume PDF](https://tinyurl.com/yashaswini-shivathaya) | [Gi
 
 ### Bio
 
-I am a software engineer with experience across large scale engineering teams, startups, and independent projects. I have contributed to patented technical work and built intelligent systems, developer tools, and customer-facing products. My work spans full-stack development, AI-based systems, and early exploration in robotics and autonomous systems. I am comfortable working across the stack and focuses on understanding systems end to end, from architecture to user impact. I am execution-driven, curious about complex technical problems, and interested in building systems that operate at scale over the long term. Alongside engineering, I am a crisp communicator, enjoy technical discussions and working in high-functioning tight-deadline collaborative environments.
+I am a computer science engineer with experience across large scale engineering teams, startups, and independent projects. I have contributed to patented technical work and built intelligent systems, developer tools, and customer-facing products. My work spans full stack web and platform development, low-level OS development, AI systems, and robotics and autonomous systems. I am comfortable working across the stack and focuse on understanding systems in depth, end-to-end, from architecture to user impact.
+I am execution-driven, curious about complex technical problems, and interested in building systems that operate at scale over the long term. Alongside engineering, I am a crisp communicator, enjoy technical discussions and working in high-functioning tight-deadline collaborative environments.
+I live for the **impact!**
 
 ---
 
@@ -30,7 +32,7 @@ I am a software engineer with experience across large scale engineering teams, s
 #### **Dell Technologies** | Software Engineer
 *Feb 2025 – Present | Bengaluru*
 * **Agentic AI:** Architected code structures for peripherals and diagnostics from the ground up, contributing to a **30% surge** in departmental profitability for FY26.
-* **Patent Holder:** Authorized patent (Nov 2025) for diagnosing acoustic coupling and howling sources in multi-device audio networks.
+* **Patent Holder:** Authorized technical patent (Nov 2025) for diagnosing and mitigating acoustic coupling 'howling' in a multi-device environment | *Networking, Signals, Fault-handling, Master/client, P2P architectures, Wireless communication algorithims*
 * **Proactive Systems:** Designed and developed battery temperature monitoring tests for SupportAssist, increasing early failure detection by **25%**.
 
 #### **Amazon** | Engineering Intern
@@ -45,17 +47,22 @@ I am a software engineer with experience across large scale engineering teams, s
 ---
 
 ### Key Projects
+I enjoy implementing my projects from the ground up, with few libraries at first, all to gain a deeper understanding of the world underneath the abstraction.
+Here's a list of some of my latest & notable projects...
+
+#### **Realtime Recommendation Engine** | *Python, ML, Matrix Factorisation, SGD*
+- Engineered a realtime, zero-dependency recommendation engine using incremental Matrix Factorization and SGD, enabling sub millisecond user profiling and adaptation through online learning
+- Includes a semantic ingestion pipeline leveraging LLM embeddings to solve the 'cold start' problem allowing the system to instantly extrapolate user preferences to newly added items without any retraining [Source Code](https://github.com/y-ashaswini/pendulum/blob/main/recommendation_engine.py)
 
 #### **Autograd Engine and Neural Network Library** | *Python, NN, RL, DQN, Lagrangian Mechanics, Bellman Equations*
-- Developed a zero-dependency, first-principles Autograd Engine and Neural Network Library in Python to solve complex control theory and nonlinear regression problems
 - Engineered a scalar automatic differentiation engine with custom autograd architecture (reference: micrograd) using a Computational Graph to handle manual backpropagation and dynamic gradient tracking
-- Implemented a Deep Q-Network (DQN) from scratch to stabilize an inverted pendulum system. Defined and applied Lagrangian Physics (gravity, torque, and friction) to simulate robotic constraints
-- Used Gradient clipping and semi-gradient methods to ensure mathematical convergence in chaotic state spaces
-- Successfully applied the engine to two distinct domains: Multi-variable Linear Regression (for mathematical verification) and Reinforcement Learning (for autonomous control) [Check out the code here.](https://github.com/y-ashaswini/pendulum)
+- Implemented a Deep Q Network (DQN) to stabilize an inverted pendulum system with Lagrangian Physics to simulate robotic constraints
+- Used gradient clipping and semi-gradient methods to ensure mathematical convergence in chaotic state spaces
+- Successfully applied the engine to two distinct domains: Multi-variable Linear Regression (for mathematical verification) and Reinforcement Learning (for autonomous control) [Source Code](https://github.com/y-ashaswini/pendulum)
 
 #### **Autonomous Martian Rover** | *C++, Python, ROS, YOLOv8*
 * Engineered an advanced autonomous module for obstacle detection, avoidance, and goal navigation
-* Implemented YOLOv8 for real-time detection of arrow way-points in unknown terrains. [Source Code](https://github.com/y-ashaswini/bot_ws_2)
+* Implemented YOLOv8 for realtime detection of arrow way-points in unknown terrains. [Source Code](https://github.com/y-ashaswini/bot_ws_2)
 
 #### **Scalable Social Networking Site** | *React JS, Tailwind, Supabase*
 * Architected and deployed an end-to-end scalable social platform during freelance tenure at Pettera.
@@ -67,10 +74,10 @@ I am a software engineer with experience across large scale engineering teams, s
 
 ### Leadership & Global Impact
 
-#### **Core Member** | Reboot Committee, Dell Technologies (Dell-11, Bengaluru)
+#### **Core Organizing Member** | Reboot Committee, Dell Technologies (Dell-11, Bengaluru)
 *Feb 2026 - Present*
-* One of 10 members from the entire site chosen for end-to-end handling of conducting large scale events each with over 150+ attendees
-* Collaboration, planning and discussion with top leaders of Dell Technologies
+* One of 10 members from the entire site of over 600+ members chosen for end-to-end handling of conducting large scale events each with over 200 attendees
+* Leadership, ownership, collaboration and discussion with top leaders of Dell Technologies
 
 #### **Software Head** | SEDS VIT Projects (Team Vyadh & Ardra)
 *Jan 2024 – Jan 2025*
@@ -85,9 +92,11 @@ I am a software engineer with experience across large scale engineering teams, s
     * **CGPA:** 9.25/10.0 
 * **AWS Solutions Architect - Associate** (Passed)
 * **AWS Certified Cloud Practitioner** (Passed, Score: 82.1%)
+* **Authorized Technical Patent** (Method for Diagnosing Acoustic Coupling and Howling Sources in Multi-Device Audio Networks)
 
 ---
 
-### Beyond the Code
+### Beyond Code?
 * **Interests:** Robotics, Space Science, Writing, Classical Dancing, Singing.
-* **Public Speaking:** Conducted technical workshops in university, Emcee for Dell Technologies Annual Event 2026 (300+ attendees) and Dell site-wide Indian Independence Day celebrations.
+* **Public Speaking:** Emcee for Dell Technologies Annual Event 2026 (300+ attendees) and Dell site-wide Indian Independence Day celebrations
+* **Mentoring and Teaching:**  Conducted technical workshops in university, Held mathematics classses for academically weaker students of middle school

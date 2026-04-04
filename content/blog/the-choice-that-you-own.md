@@ -9,7 +9,6 @@ hiddenInHomeList: true
 
 At any given point in time, you see the million possibilities forking forth, all branching out each from the things you can do and the things you wouldn't. Each takes on a different route and leads to a different end. Oh, the power we hold with our free will, unfathomable! We could *totally* change the world with this one choice, dammit. 
 
-
 Er, really?
 
 Of late I've come to figure out the way things work around here. People, they often fit into a loosely defined “template”, sorta like a fingerprint with almost 80% accuracy - too complicated to not be explained off in two words, but rcognisable enough to form and fit into a category of their own. Listening for patterns, watching your eyes move as you speak, your pauses, your little gestures, they all make sense to me. You’re a wonder. You may speak two sentences but I hear five, and depending on how accurate probabilistic determinability may be, I see the path we take from this point onwards, our intricate dance at best ten steps into the future.
