@@ -1,6 +1,6 @@
 {{- if not .IsHome -}}
 <div class="breadcrumbs">
-    <a href="{{ "".AbsLangURL }}">home</a>&nbsp;»&nbsp;
+    <a href="{{ absLangURL "/" }}">home</a>&nbsp;»&nbsp;
     {{- range .Ancestors.Reverse -}}
         {{- if ne .Title $.Site.Title -}}
             <a href="{{ .Permalink }}">{{ .Title | lower }}</a>&nbsp;»&nbsp;
