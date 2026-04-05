@@ -56,9 +56,12 @@
     {{- partial "share_icons.html" . -}}
     {{- end }}
   </footer>
-{{- if (ne .Params.comments false) -}}
-    {{- partial "comments.html" . -}}
-{{- end -}}
+  <div style="margin-top: 40px; font-family: monospace; font-size: 0.8rem;">
+    <a href="/blog/">Archive</a>
+  </div>
+  {{- if (ne .Params.comments false) -}}
+      {{- partial "comments.html" . -}}
+  {{- end -}}
 </article>
 
 {{- end }}{{/* end main */}}

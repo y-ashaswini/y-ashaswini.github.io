@@ -1,0 +1,22 @@
+.breadcrumbs {
+    font-family: 'Courier New', monospace;
+    font-size: 0.75rem; 
+    margin-bottom: 15px;
+    opacity: 0.5; 
+    text-transform: lowercase;
+}
+
+.breadcrumbs a {
+    color: var(--secondary);
+    text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+    color: var(--tertiary);
+    text-decoration: underline;
+}
+
+.breadcrumbs .current-page {
+    color: var(--primary);
+    font-weight: bold;
+}

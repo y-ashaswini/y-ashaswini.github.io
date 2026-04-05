@@ -5,7 +5,7 @@ title: 'Why Do Artists Need Gloom and What Happens When its Gone?'
 hiddenInHomeList: true
 ---
 
-*Disclaimer: I’m not trying to feeding into the stereotype, rather I’m trying to dispell the stereotype because it’s truth. Art needs gloom.*
+*Disclaimer: I’m not trying to feed into the stereotype, rather I’m trying to dispell the stereotype because it’s **truth**. Art needs gloom.*
 
 
 Before we talk about gloom, let’s talk about the other end of the spectrum - happiness. 
@@ -24,7 +24,7 @@ Many of us are too busy to feel.
 Few of us take the time out to *think* about the feeling.
 And even fewer, are able to take that pain and find avenues of expression in creation.
 
-The gloom is an emotion. Gloom is what sets in after a heavy episode of both happiness and despair. 
+The gloom is an emotion. It ain't necessarily sad, it's more like being *aware*, and ironically makes you more pragmatic. It grounds you, and shows you the world in more ways than you can imagine. Gloom is what sets in after a heavy episode of both happiness and despair. 
 I believe it is one of the highest forms of feeling - because it is one of the rawest and truest human experience. You could argue that *love* is the strongest emotion, or *hatred* is, but these are all the heated ones. The peak of these emotions only occur momentarily, but not gloom - it is ocean that allows the waves of heated emotions to ride on it.
 
 Gloom stops time, shows you dimensions much beyond what one might ordinarily see. It puts your mind in that state like you’ve just stepped out after washing your hair and you feel all cozy and shivery with the contrast of your cold head clashing interanlly with your warm skin and insides! (is that too specific an example? T_T) Gloom allows you to observe, allows you to observe yourself as you observe, and remember it in an abstract form that connects you with art. And because it’s attached to an emotion, it is etched into your memory, so you can access fragrances of it when you get into *performance* mode.
