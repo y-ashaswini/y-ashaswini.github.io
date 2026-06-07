@@ -1,6 +1,6 @@
 ---
 date: '2026-06-10T00:00:11+04:00'
-draft: draft
+draft: false
 title: 'Once More'
 hiddenInHomeList: true
 ---
