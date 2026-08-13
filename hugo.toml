@@ -3,6 +3,12 @@ locale = 'en-us'
 title = 'Dynamic Equillibrium'
 theme = "PaperMod"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      hardWraps = true
+      
 [permalinks]
     blog = "/blog/:title/"
 
@@ -15,15 +21,6 @@ theme = "PaperMod"
         enabled = true
         title = "Yashaswini Shivathaya"
         subtitle = "yashaswinishivathaya@gmail.com"
-        #imageUrl = "https://raw.githubusercontent.com/google/material-design-icons/master/src/action/terminal/materialicons/24px.svg" # Or your own avatar
-        #imageWidth = 120
-        #imageHeight = 120
-        #[[params.profileMode.buttons]]
-        #    name = "click to find raw thoughts"
-        #    url = "/blog"
-        #[[params.profileMode.buttons]]
-        #    name = "The Dossier (Resume)"
-        #    url = "/kronos/resume"
 
     [params.label]
         text = "Dynamic Equillibrium"
